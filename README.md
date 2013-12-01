@@ -1,4 +1,4 @@
 sodoko
 ======
 
-Simple sudoku game for training !
+Simple sudoku game for practise !
