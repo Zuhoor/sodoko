@@ -1,12 +1,12 @@
-package com.hatemcore.games.sudoku.test;
+package com.hatemcore.games.sodoko.test;
 
 import static org.junit.Assert.*;
 
 import org.junit.Before;
 import org.junit.Test;
 
-import com.hatemcore.games.sudoku.Game;
-import com.hatemcore.games.sudoku.GroupPosition;
+import com.hatemcore.games.sodoko.Game;
+import com.hatemcore.games.sodoko.GroupPosition;
 
 public class GroupPositionTest {
 	

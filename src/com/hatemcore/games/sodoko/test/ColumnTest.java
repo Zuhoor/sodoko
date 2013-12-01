@@ -1,13 +1,13 @@
-package com.hatemcore.games.sudoku.test;
+package com.hatemcore.games.sodoko.test;
 
 import static org.junit.Assert.*;
 
 import org.junit.Before;
 import org.junit.Test;
 
-import com.hatemcore.games.sudoku.Column;
-import com.hatemcore.games.sudoku.Field;
-import com.hatemcore.games.sudoku.Game;
+import com.hatemcore.games.sodoko.Column;
+import com.hatemcore.games.sodoko.Field;
+import com.hatemcore.games.sodoko.Game;
 
 /**
  * Test for Field class.

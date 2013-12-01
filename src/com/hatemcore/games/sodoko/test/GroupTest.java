@@ -1,12 +1,12 @@
-package com.hatemcore.games.sudoku.test;
+package com.hatemcore.games.sodoko.test;
 
 import org.junit.Before;
 import org.junit.Test;
 
 import static org.junit.Assert.*;
 
-import com.hatemcore.games.sudoku.Game;
-import com.hatemcore.games.sudoku.Group;
+import com.hatemcore.games.sodoko.Game;
+import com.hatemcore.games.sodoko.Group;
 /**
  * Test for Group.
  * @author Hatem Al Amri

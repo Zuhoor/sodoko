@@ -5,4 +5,4 @@
  * @author Hatem Al Amri
  *
  */
-package com.hatemcore.games.sudoku.test;
+package com.hatemcore.games.sodoko.test;

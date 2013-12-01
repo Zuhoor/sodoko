@@ -1,4 +1,4 @@
-package com.hatemcore.games.sudoku;
+package com.hatemcore.games.sodoko;
 
 /**
  * Represent a field in the group.

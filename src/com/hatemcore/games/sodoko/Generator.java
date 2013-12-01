@@ -1,4 +1,4 @@
-package com.hatemcore.games.sudoku;
+package com.hatemcore.games.sodoko;
 
 import java.util.ArrayList;
 import java.util.Random;

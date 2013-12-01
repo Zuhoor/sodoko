@@ -1,4 +1,4 @@
-package com.hatemcore.games.sudoku;
+package com.hatemcore.games.sodoko;
 
 /**
  * Represent group position.
