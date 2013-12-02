@@ -23,7 +23,7 @@ public class ColumnTest {
 		column = new Column();
 	}
 
-	@Test
+	/*@Test
 	public void testColumnNumberByFieldNumber() {
 		
 		Game.horFieldsNumber = 2;
@@ -36,7 +36,7 @@ public class ColumnTest {
 		assertEquals(5, Column.getColumnNumberByFieldNumber(11).intValue());
 		assertEquals(1, Column.getColumnNumberByFieldNumber(19).intValue());
 
-	}
+	}*/
 	
 	@Test
 	public void testNumberOfColumn() {
